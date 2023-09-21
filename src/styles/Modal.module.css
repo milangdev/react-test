@@ -1,0 +1,18 @@
+.buttonA {
+  color: #fff!important;
+  background-color: #46139f;
+  margin-right: 0.5rem!important;
+}
+
+.buttonB {
+  background: #ff7f50 !important;
+  color: white!important;
+  border: #ff7f50 !important;
+}
+
+.buttonC {
+  background-color: #fff!important;
+  border-color: #46139f!important;
+  color: #46139f!important;
+  margin-left: 0.5rem!important;
+}
